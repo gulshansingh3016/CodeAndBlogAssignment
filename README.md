@@ -9,6 +9,8 @@ SOLID Principles is a coding standard that all developers should have a clear co
 ## Why we need SOLID principle?
 When the developer builds a software following the bad design, the code can become inflexible and more brittle, small changes in the software can result in bugs. For these reasons, we should follow SOLID Principles. It takes some time to understand, but if you write code following the principles it will improve code quality and will help to understand the most well-designed software.
 
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLDyiPnzniaboZxVxGb0X9_LFBCL9cUJgmQ&usqp=CAU)
+
 ## 5 principles
 
 ### 1.Single responsibility principle
