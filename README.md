@@ -15,7 +15,6 @@ When the developer builds a software following the bad design, the code can beco
 
 ### 1.Single responsibility principle
 A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
-![Alt Text](https://www.javaskool.com/wp-content/uploads/2015/01/srp1.png)
 
 ### 2.Open–closed principle
 "Software entities ... should be open for extension, but closed for modification."
